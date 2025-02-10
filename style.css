@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif; /* Fallback font family */
     text-align: center; /* Center-align text */
     margin: 0; /* Remove default margin */
-    background-color: #FADADD; /* Set background color to light pink */
+    background-color: #FCFEFC; /* Set background color to light pink */
 }
 
 #container {
@@ -20,7 +20,7 @@ body {
 }
 
 #question {
-    font-family: 'Sacramento', cursive; /* Apply Sacramento font to the question */
+    font-family: 'product-sans', sans-serif; /* Apply Sacramento font to the question */
     font-size: 52px; /* Set font size for the question */
 }
 
